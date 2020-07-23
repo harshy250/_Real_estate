@@ -1,2 +1,2 @@
 # _Real_estate
-A wholesome web application
+Django Web Application
